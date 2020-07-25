@@ -49,6 +49,9 @@
 <a href="https://github.com/AmbujaAK/MERN-Course-Bootcamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmbujaAK&repo=MERN-Course-Bootcamp&theme=dark" />
 </a>
+<a href="https://github.com/AmbujaAK/Student-Management-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmbujaAK&repo=Student-Management-System&theme=dark" />
+</a>
 
 <div align="center">
 
