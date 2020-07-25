@@ -19,10 +19,9 @@
 
 
 
-- 🔭 I’m currently working in [Ericsson Global India Pvt Ltd](https://www.ericsson.com).
-- 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
+- 🔭 I’m currently working in [Ericsson Global India Pvt Ltd](https://www.ericsson.com) as a Banckend Developer.
+- 🏃 Looking for a Switch for Full Stack Developer Profile 
+- 🌱 I’m currently learning Frontend using [React](https://reactjs.org/)
 - 📫 How to reach me: [Twitter - @AmbujaAK](https://www.linkedin.com/in/ambuj-kumar-83a5a7135)
 
 [![Twitter: AmbujaAK](https://img.shields.io/twitter/follow/AmbujaAK?style=social)](https://twitter.com/AmbujaAK)
@@ -33,11 +32,11 @@
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://user-images.githubusercontent.com/22987600/88457886-7a9a1500-cea7-11ea-8174-f5078cf7d029.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22987600/88450395-3c333480-ce6c-11ea-8703-c7e75af43734.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22987600/88450411-5836d600-ce6c-11ea-93b1-ae5167ed1949.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22987600/88457875-753cca80-cea7-11ea-8882-87ca48b96898.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22987600/88457883-7837bb00-cea7-11ea-808d-9e85ebe6aa14.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/22987600/88457886-7a9a1500-cea7-11ea-8174-f5078cf7d029.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/22987600/88457888-7d950580-cea7-11ea-98e5-216a1ff41359.png"></code>
 
 <a href="https://github.com/AmbujaAK">
