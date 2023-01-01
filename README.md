@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working in [Ericsson Global India Pvt Ltd](https://www.ericsson.com) as a Banckend Developer.
+- 🔭 I’m currently working at [Recro](https://recro.io) as a Software Engineer.
 - 🏃 Looking for a Switch for Full Stack Developer Profile 
-- 🌱 I’m currently learning Frontend using [React](https://reactjs.org/)
+- 🌱 I’m currently learning Frontend using [Angular](https://angular.io)
 - 📫 How to reach me: [Twitter - @AmbujaAK](https://www.linkedin.com/in/ambuj-kumar-83a5a7135)
 
 [![Twitter: AmbujaAK](https://img.shields.io/twitter/follow/AmbujaAK?style=social)](https://twitter.com/AmbujaAK)
