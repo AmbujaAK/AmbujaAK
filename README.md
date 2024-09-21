@@ -19,9 +19,9 @@
 
 
 
-- 🔭 I’m currently working at [Recro](https://recro.io) as a Software Engineer.
-- 🏃 Looking for a Switch for Full Stack Developer Profile 
-- 🌱 I’m currently learning Frontend using [Angular](https://angular.io)
+- 🔭 I’m currently working at [Sigma AI] as a Senior Software Engineer.
+- 🏃 Building AI product 
+- 🌱 Having experience of 5 years in Java and Spring Boot Microservice.
 - 📫 How to reach me: [Twitter - @AmbujaAK](https://www.linkedin.com/in/ambuj-kumar-83a5a7135)
 
 [![Twitter: AmbujaAK](https://img.shields.io/twitter/follow/AmbujaAK?style=social)](https://twitter.com/AmbujaAK)
